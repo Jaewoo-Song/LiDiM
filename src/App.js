@@ -13,7 +13,7 @@ function App() {
         <li><NavLink to="/overview">Overview</NavLink></li>
         <li><NavLink to="/poultry">Poultry</NavLink></li>
         <li><NavLink to="/swine">Swine</NavLink></li>
-        <li><NavLink to="/cow">Cow</NavLink></li>
+        <li><NavLink to="/cow">Coaaw</NavLink></li>
       </ul>
       <Switch>
         <Route exact path="/">First Page</Route>
